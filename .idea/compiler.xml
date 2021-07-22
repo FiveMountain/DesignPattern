@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DP-09-Composite" />
+        <module name="DP-01-Factory" />
+        <module name="DP-03-Singleton" />
+        <module name="DP-02-AbstractFactory" />
+        <module name="DP-05-Prototype" />
+        <module name="DP-12-Flyweight" />
+        <module name="DP-04-Builder" />
+        <module name="DP-08-Filter" />
+        <module name="DP-11-Facade" />
+        <module name="DP-15-Command" />
+        <module name="DP-14-ChainOfResp" />
+        <module name="DP-07-Bridge" />
+        <module name="DP-06-Adapter" />
+        <module name="DP-10-Decorator" />
+        <module name="DP-13-Proxy" />
+        <module name="DP-08-Filter&amp;Criteria" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Criteria" target="8" />
+      <module name="DP-08-Filter&amp;Criteria" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

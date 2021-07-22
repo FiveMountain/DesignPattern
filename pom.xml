@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>DesignPatternDemo</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>DP-01-Factory</module>
+        <module>DP-02-AbstractFactory</module>
+        <module>DP-03-Singleton</module>
+        <module>DP-04-Builder</module>
+        <module>DP-05-Prototype</module>
+        <module>DP-06-Adapter</module>
+        <module>DP-07-Bridge</module>
+        <module>DP-08-Filter</module>
+        <module>DP-09-Composite</module>
+        <module>DP-10-Decorator</module>
+        <module>DP-11-Facade</module>
+        <module>DP-12-Flyweight</module>
+        <module>DP-13-Proxy</module>
+        <module>DP-14-ChainOfResp</module>
+        <module>DP-15-Command</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+</project>

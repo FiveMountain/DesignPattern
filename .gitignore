@@ -1,0 +1,16 @@
+# Project exclude paths
+/DP-01-Factory/target/
+/DP-02-AbstractFactory/target/
+/DP-03-Singleton/target/
+/DP-04-Builder/target/
+/DP-05-Prototype/target/
+/DP-06-Adapter/target/
+/DP-07-Bridge/target/
+/DP-08-Filter/target/
+/DP-09-Composite/target/
+/DP-10-Decorator/target/
+/DP-11-Facade/target/
+/DP-12-Flyweight/target/
+/DP-13-Proxy/target/
+/DP-14-ChainOfResp/target/
+/DP-15-Command/target/
