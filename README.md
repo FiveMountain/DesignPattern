@@ -63,3 +63,7 @@
 
 ### [14. 责任链模式](DP-14-ChainOfResp/chainOfRespNote.md)
 
+### [15. 命令模式](DP-15-Command/commandNote.md)
+
+### [16. 解释器模式](DP-16-Interpreter/interpreterNote.md)
+

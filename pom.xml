@@ -24,6 +24,7 @@
         <module>DP-13-Proxy</module>
         <module>DP-14-ChainOfResp</module>
         <module>DP-15-Command</module>
+        <module>DP-16-Interpreter</module>
     </modules>
 
     <properties>
