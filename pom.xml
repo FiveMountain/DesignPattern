@@ -25,6 +25,7 @@
         <module>DP-14-ChainOfResp</module>
         <module>DP-15-Command</module>
         <module>DP-16-Interpreter</module>
+        <module>DP-17-Iterator</module>
     </modules>
 
     <properties>

@@ -1,5 +1,7 @@
 # 设计模式学习笔记
 
+> 原文：[菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
+
 ## 设计模式类型
 
 ![设计模式类型](DP-Type.png)
@@ -66,4 +68,6 @@
 ### [15. 命令模式](DP-15-Command/commandNote.md)
 
 ### [16. 解释器模式](DP-16-Interpreter/interpreterNote.md)
+
+### [17. 迭代器模式](DP-17-Iterator/iteratorNote.md)
 
