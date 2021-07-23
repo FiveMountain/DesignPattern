@@ -71,3 +71,5 @@
 
 ### [17. 迭代器模式](DP-17-Iterator/iteratorNote.md)
 
+### [18. 中介者模式](DP-18-Mediator/mediatorNote.md)
+

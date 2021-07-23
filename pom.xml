@@ -26,6 +26,7 @@
         <module>DP-15-Command</module>
         <module>DP-16-Interpreter</module>
         <module>DP-17-Iterator</module>
+        <module>DP-18-Mediator</module>
     </modules>
 
     <properties>
