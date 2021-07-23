@@ -21,6 +21,7 @@
         <module name="DP-14-ChainOfResp" />
         <module name="DP-17-Iterator" />
         <module name="DP-07-Bridge" />
+        <module name="DP-19-Memento" />
         <module name="DP-06-Adapter" />
         <module name="DP-10-Decorator" />
         <module name="DP-13-Proxy" />

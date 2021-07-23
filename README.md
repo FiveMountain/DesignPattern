@@ -73,3 +73,5 @@
 
 ### [18. 中介者模式](DP-18-Mediator/mediatorNote.md)
 
+### [19. 备忘录模式](DP-19-Memento/mementoNote.md)
+
