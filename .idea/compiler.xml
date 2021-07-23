@@ -13,6 +13,7 @@
         <module name="DP-18-Mediator" />
         <module name="DP-02-AbstractFactory" />
         <module name="DP-05-Prototype" />
+        <module name="DP-20-Observer" />
         <module name="DP-12-Flyweight" />
         <module name="DP-04-Builder" />
         <module name="DP-08-Filter" />

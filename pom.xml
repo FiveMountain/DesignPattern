@@ -28,6 +28,7 @@
         <module>DP-17-Iterator</module>
         <module>DP-18-Mediator</module>
         <module>DP-19-Memento</module>
+        <module>DP-20-Observer</module>
     </modules>
 
     <properties>

@@ -75,3 +75,5 @@
 
 ### [19. 备忘录模式](DP-19-Memento/mementoNote.md)
 
+### [20. 观察者模式](DP-20-Observer/observerNote.md)
+
