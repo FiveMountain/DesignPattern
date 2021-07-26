@@ -26,6 +26,7 @@
         <module name="DP-06-Adapter" />
         <module name="DP-10-Decorator" />
         <module name="DP-13-Proxy" />
+        <module name="DP-21-State" />
         <module name="DP-08-Filter&amp;Criteria" />
       </profile>
     </annotationProcessing>

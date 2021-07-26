@@ -29,6 +29,7 @@
         <module>DP-18-Mediator</module>
         <module>DP-19-Memento</module>
         <module>DP-20-Observer</module>
+        <module>DP-21-State</module>
     </modules>
 
     <properties>

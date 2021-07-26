@@ -77,3 +77,5 @@
 
 ### [20. 观察者模式](DP-20-Observer/observerNote.md)
 
+### [21. 状态模式](DP-21-State/stateNote.md)
+
