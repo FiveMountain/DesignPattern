@@ -14,3 +14,13 @@
 /DP-13-Proxy/target/
 /DP-14-ChainOfResp/target/
 /DP-15-Command/target/
+/DP-16-Interpreter/target/
+/DP-17-Iterator/target/
+/DP-18-Mediator/target/
+/DP-19-Memento/target/
+/DP-20-Observer/target/
+/DP-21-State/target/
+/DP-22-NullObject/target/
+/DP-23-Strategy/target/
+/DP-24-Template/target/
+/DP-25-Visitor/target/
