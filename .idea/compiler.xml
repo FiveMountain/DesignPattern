@@ -9,6 +9,7 @@
         <module name="DP-09-Composite" />
         <module name="DP-16-Interpreter" />
         <module name="DP-01-Factory" />
+        <module name="DP-22-NullObject" />
         <module name="DP-03-Singleton" />
         <module name="DP-18-Mediator" />
         <module name="DP-02-AbstractFactory" />

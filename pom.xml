@@ -30,6 +30,7 @@
         <module>DP-19-Memento</module>
         <module>DP-20-Observer</module>
         <module>DP-21-State</module>
+        <module>DP-22-NullObject</module>
     </modules>
 
     <properties>

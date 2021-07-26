@@ -79,3 +79,5 @@
 
 ### [21. 状态模式](DP-21-State/stateNote.md)
 
+### [22. 空对象模式](DP-22-NullObject/nullObjectNote.md)
+
