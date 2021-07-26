@@ -81,3 +81,5 @@
 
 ### [22. 空对象模式](DP-22-NullObject/nullObjectNote.md)
 
+### [23. 策略模式](DP-23-Strategy/strategyNote.md)
+
