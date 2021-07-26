@@ -83,3 +83,5 @@
 
 ### [23. 策略模式](DP-23-Strategy/strategyNote.md)
 
+### [24. 模板模式](DP-24-Template/templateNote.md)
+

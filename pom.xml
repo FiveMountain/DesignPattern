@@ -32,6 +32,7 @@
         <module>DP-21-State</module>
         <module>DP-22-NullObject</module>
         <module>DP-23-Strategy</module>
+        <module>DP-24-Template</module>
     </modules>
 
     <properties>
