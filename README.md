@@ -85,3 +85,4 @@
 
 ### [24. 模板模式](DP-24-Template/templateNote.md)
 
+### [25. 访问者模式](DP-25-Visitor/visitorNote.md)

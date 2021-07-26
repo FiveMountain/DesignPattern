@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="DP-09-Composite" />
+        <module name="DP-25-Visitor" />
         <module name="DP-16-Interpreter" />
         <module name="DP-22-NullObject" />
         <module name="DP-03-Singleton" />

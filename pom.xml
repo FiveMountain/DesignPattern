@@ -33,6 +33,7 @@
         <module>DP-22-NullObject</module>
         <module>DP-23-Strategy</module>
         <module>DP-24-Template</module>
+        <module>DP-25-Visitor</module>
     </modules>
 
     <properties>
